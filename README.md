@@ -1,2 +1,2 @@
 # pugetsoundtransit
-API Integration for King County Transit
+API Integration for Puget Sound Transit (Seattle, WA)
